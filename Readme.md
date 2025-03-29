@@ -5,7 +5,12 @@
 
 3. Run
   - First, start the broadcaster:
-    python broadcaster.py
+    python sender.py
 
   - Then, in a separate terminal, start the receiver:
     python receiver.py
+
+4. Finish
+  - First, press Ctrl + C in the receiver terminal
+  
+  - Then, press Ctrl + C in the sender terminal
